@@ -1,0 +1,25 @@
+.sobre-bg{
+  background-color: var(--cor-4);
+}
+
+.sobre img{
+  object-fit: cover;
+  width: 100%;
+}
+
+.sobre-conteudo{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.sobre{
+  display: flex;
+  gap: 40px;
+}
+.sobre h1{
+  padding-bottom: 40px;
+}
+
+.sobre p{
+  width: 35ch;
+}

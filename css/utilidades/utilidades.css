@@ -1,0 +1,33 @@
+.botao {
+  border: none;
+  text-transform: uppercase;
+  background-image: linear-gradient(#FF9933, #9D4107 );
+  border-radius: 6px;
+  padding: 20px 35px;
+  /* position: relative; */
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
+
+.botao a{
+  color: var(--cor-p5);
+  font-weight: 600;
+}
+
+.botao:hover {
+  transform: scale(1.1);
+  transition: .2s;
+}
+
+.container {
+  margin: auto;
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}

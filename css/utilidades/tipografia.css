@@ -1,0 +1,29 @@
+.font-m{
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.font-m2{
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 400;
+}
+
+.font-gl{
+  font-size: 36px;
+  line-height: 60px;
+  font-weight: 700;
+}
+
+.font-g{
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 700;
+}
+
+.font-gg{
+  font-size: 48px;
+  line-height: 68px;
+  font-weight: 500;
+}
